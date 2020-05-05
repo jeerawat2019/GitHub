@@ -13,5 +13,10 @@ namespace Namespace
             
             return View();
         }
+        public IActionResult Resultss()
+        {
+            
+            return View();
+        }
     }
 }
